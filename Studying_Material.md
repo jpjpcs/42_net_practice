@@ -11,10 +11,12 @@ Recomendacao Leila:
 
 
 Recomendacao Miguel:
+
 4 - https://www.aelius.com/njh/subnet_sheet.html
 
 
 
 Recomendacoes Rodrigo Antunes:
 Este aqui ajuda bastante a perceber o início, os primeiros 2 a 4 exercícios 
+
 5 -https://42-cursus.gitbook.io/guide/rank-04/netpractice/theory#ip-internet-protocol
