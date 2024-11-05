@@ -19,4 +19,11 @@ Recomendacao Miguel:
 Recomendacoes Rodrigo Antunes:
 Este aqui ajuda bastante a perceber o início, os primeiros 2 a 4 exercícios 
 
-5 -https://42-cursus.gitbook.io/guide/rank-04/netpractice/theory#ip-internet-protocol
+5 - https://42-cursus.gitbook.io/guide/rank-04/netpractice/theory#ip-internet-protocol
+
+
+Artigos extra que eu li:
+
+6 - https://www.techtarget.com/searchnetworking/definition/routing-table
+
+7 - https://www.techtarget.com/searchnetworking/tip/IP-addressing-and-subnetting-Calculate-a-subnet-mask-using-the-hosts-formula
